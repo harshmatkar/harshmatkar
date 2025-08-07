@@ -3,7 +3,7 @@
 ### A passionate full-stack developer from India 🇮🇳
 
 - 📫 Reach me at: **harsh.matkar2005@gmail.com**
-- 🌱 Currently exploring: Full-Stack Development | DSA | DevOps Basics
+- 🌱 Currently exploring: CP| DSA | Deep Learning
 - 💼 Open to internship opportunities and collaborations
 
 ---
